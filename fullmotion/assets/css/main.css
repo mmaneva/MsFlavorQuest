@@ -79,7 +79,7 @@
 	}
 
 	body {
-		background: #202024;
+		background: #fff;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
